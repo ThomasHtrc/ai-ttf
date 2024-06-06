@@ -1,0 +1,4 @@
+title: Workflow Title
+inputs: Workflow Inputs
+steps: Workflow Steps
+outputs: Workflow Outputs

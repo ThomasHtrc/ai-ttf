@@ -1,0 +1,6 @@
+{
+    "title": "Test Workflow 1",
+    "inputs": "Block of text from --",
+    "steps": "Parse text and summarize",
+    "outputs": "New block of text to --"
+}

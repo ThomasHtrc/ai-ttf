@@ -1,0 +1,9 @@
+{
+    "title": "Test Workflow",
+    "inputs": "Input text from --",
+    "steps": "Step 1 using input",
+    "outputs": "Output text to --",
+    "metadata": {
+        "generated_on": "2024-06-06T12:30:16.271743"
+    }
+}
